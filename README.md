@@ -16,7 +16,7 @@ This project operationalizes a Machine Learning Microservice API using kubernete
 
 ## Steps to run
 
-### step 1
+### Step 1
 - clone this repo into your local machine
 
 ### Step 2
@@ -34,4 +34,4 @@ This project operationalizes a Machine Learning Microservice API using kubernete
 - run `./run_kubernetes.sh` to get the container running on kubernetes
 
 ### Step 6
-- sit back relax and enjoy your working application :-).
+- sit back, relax and enjoy your working application :-).
