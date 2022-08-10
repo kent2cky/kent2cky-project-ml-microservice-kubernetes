@@ -1,4 +1,6 @@
 <include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/kent2cky/kent2cky-project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/kent2cky/
+kent2cky-project-ml-microservice-kubernetes)
 
 ## Project Overview
 
